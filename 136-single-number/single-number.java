@@ -14,6 +14,6 @@ public class singleNumber {
     public static void main(String[] args) {
         Solution solution = new Solution();
         int[] nums = { 1, 2, 1, 2, 88, 88, 9 };
-        System.out.println(solution.singleNumber(nums)); // Output: 4
+        System.out.println(solution.singleNumber(nums)); 
     }
 }
